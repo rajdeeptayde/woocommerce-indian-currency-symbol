@@ -22,3 +22,9 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ====================================================
 
+git config --global user.email "rajdeeptayde@gmail.com"
+
+git config --global user.name "rajdeeptayde"
+
+
+git remote add origin https://github.com/rajdeeptayde/woocommerce-indian-currency-symbol.git
