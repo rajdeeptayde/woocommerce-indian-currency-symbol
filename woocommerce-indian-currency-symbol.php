@@ -15,7 +15,7 @@
  * Plugin Name: WooCommerce Indian Currency Symbol Using Webrupee
  * Plugin URI: https://facebook.com/rajdeeptayde
  * Description: It shows the Indian currency symbol when Indian Currency INR is set to default currrnce in woocommerce settings.
- * Version: 1.1.1
+ * Version: 1.0.0
  * Author: RajdeepTayde
  * Author URI: https://facebook.com/rajdeeptayde
  * License: GPLv3
