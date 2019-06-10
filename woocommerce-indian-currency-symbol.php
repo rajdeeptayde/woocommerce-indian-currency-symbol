@@ -10,12 +10,11 @@
  * GNU General Public License for more details.
  *
  * @author RajdeepTayde
- * @package woocommerce-product-generator
  * @since 1.0.0
  *
  * Plugin Name: WooCommerce Indian Currency Symbol Using Webrupee
  * Plugin URI: https://facebook.com/rajdeeptayde
- * Description: A sample product generator for WooCommerce.
+ * Description: It shows the Indian currency symbol when Indian Currency INR is set to default currrnce in woocommerce settings.
  * Version: 1.1.1
  * Author: RajdeepTayde
  * Author URI: https://facebook.com/rajdeeptayde
